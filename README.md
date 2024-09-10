@@ -8,7 +8,7 @@ We recommended the following dependencies.
 * torchvision==0.12.0
 * numpy==1.22.4
 
-For more recommended dependencies, please refer to the file [`requirements.txt`](https://github.com/xiao-jian-zi/MU-Goldfish-An-Efficient-Federated-Unlearning-Framework/blob/main/requirements.txt).
+For more recommended dependencies, please refer to the file [`requirements.txt`]([https://github.com/xiao-jian-zi/MU-Goldfish-An-Efficient-Federated-Unlearning-Framework/blob/main/requirements.txt](https://github.com/xiao-jian-zi/Forgetting-to-Witness/blob/main/requirements.txt)).
 
 ## 2 How to use
 ### 2.1 Training new models
